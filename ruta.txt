@@ -1,0 +1,19 @@
+biblioteca/ # paquete fuente
+__init__.py
+libro.py
+usuario.py
+prestamo.py
+biblioteca.py
+
+
+tests/
+test_libro.py
+test_usuario.py
+test_prestamo.py
+test_biblioteca_unit.py
+test_biblioteca_integration.py
+test_busqueda_param.py
+test_excepciones.py
+
+
+README.md
